@@ -1,0 +1,21 @@
+[debug] [2024-01-30T10:28:50.425Z] ----------------------------------------------------------------------
+[debug] [2024-01-30T10:28:50.427Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kabel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-30T10:28:50.427Z] CLI Version:   12.6.2
+[debug] [2024-01-30T10:28:50.428Z] Platform:      win32
+[debug] [2024-01-30T10:28:50.428Z] Node Version:  v18.17.0
+[debug] [2024-01-30T10:28:50.538Z] Time:          Tue Jan 30 2024 12:28:50 GMT+0200 (South Africa Standard Time)
+[debug] [2024-01-30T10:28:50.538Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-30T10:28:50.577Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-30T10:28:50.578Z] > authorizing via signed-in user (kabelogumani@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kabel\OneDrive\Documents\React Projects\disney-plus-app
+
