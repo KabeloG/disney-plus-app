@@ -1,3 +1,5 @@
+A UI & UX replica of the eye catching Disney+ web application.
+
 ## Screenshots
 
 <div>
