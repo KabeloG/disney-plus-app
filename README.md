@@ -14,4 +14,4 @@ A UI & UX replica of the eye catching Disney+ web application.
 
 ## Project Link
 
-https://disney-plus-app-b513b.web.app/
+<a href="https://disney-plus-app-b513b.web.app/" target="_blank">https://disney-plus-app-b513b.web.app/</a>
